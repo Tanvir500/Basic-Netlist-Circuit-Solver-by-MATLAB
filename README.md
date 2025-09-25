@@ -1,1 +1,2 @@
 # Basic-Netlist-Circuit-Solver-by-MATLAB
+In this application , users have to give the netlist code of circuits,and it will give all the node voltages. Also it can deal with dependent sources as well.Moreover Thevenin- Norton analysis, character sweeping between two particular nodes can also be known by this app. Further more, one can know resonant frequency, band width, quality factor of a particular RLC series circuit.
